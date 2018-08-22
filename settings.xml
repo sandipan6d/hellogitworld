@@ -38,7 +38,7 @@
         </activation>
         <properties>
             <sonar.host.url>
-              http://NEXUSURL
+              http://SONARURL
             </sonar.host.url>
         </properties>
     </profile>
