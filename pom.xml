@@ -4,7 +4,7 @@
   <groupId>com.github</groupId>
   <artifactId>egitdemo</artifactId>
   <packaging>jar</packaging>
-  <version>1.4</version>
+  <version>1.5</version>
   <name>egitdemo</name>
   <url>http://maven.apache.org</url>
   <dependencies>
